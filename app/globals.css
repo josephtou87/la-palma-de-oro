@@ -1,9 +1,0 @@
-:root{ --bg:#fff8f0; --accent:#b07a2a; --muted:#6b6b6b }
-html,body,#root{height:100%} body{margin:0;font-family:Inter,system-ui,Arial;background:var(--bg);color:#111}
-.container{max-width:1100px;margin:0 auto;padding:1rem}
-.card{background:white;border-radius:12px;padding:1rem;box-shadow:0 6px 18px rgba(0,0,0,0.06)}
-.btn{background:var(--accent);color:white;padding:0.5rem 1rem;border-radius:10px;border:none;cursor:pointer}
-.float-buttons{position:fixed;right:18px;bottom:18px;display:flex;flex-direction:column;gap:10px;z-index:60}
-.float-btn{width:56px;height:56px;border-radius:9999px;display:flex;align-items:center;justify-content:center;color:white;box-shadow:0 6px 18px rgba(0,0,0,0.15);cursor:pointer}
-.float-whatsapp{background:#25D366}
-.float-call{background:#2563EB}
