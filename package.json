@@ -1,0 +1,22 @@
+{
+  "name": "sombreria-la-palma",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "framer-motion": "^10.12.6",
+    "next": "14.2.3",
+    "nodemailer": "^6.9.8",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "stripe": "^16.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.13",
+    "typescript": "5.9.2"
+  }
+}
